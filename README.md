@@ -4,6 +4,7 @@ At the moment, it's just a proof-of-concept, (no IE support) but the next releas
 
 ### [Demo](http://josscrowcroft.com/demos/motioncaptcha/ "MotionCAPTCHA Demo") &bull; [Homepage / Screenshots](http://josscrowcroft.com/projects/motioncaptcha-jquery-plugin/ "MotionCAPTCHA - Joss Crowcroft") 
 
+
 > عبثت في كودها المصدري وجعلتها عربية
 > علي آل براك
 
@@ -116,7 +117,7 @@ In my book, all of these people are ace - I just borrowed from them and spliced 
             shapes: ['triangle', 'x', 'rectangle', 'circle', 'check', 'caret', 'zigzag', 'arrow', 'leftbracket', 'rightbracket', 'v', 'delete', 'star', 'pigtail'],
             
             // These messages are displayed inside the canvas after a user finishes drawing:
-			errorMsg : 'حوال مجددا.',
+			errorMsg : 'حاول مجددا.',
 			successMsg : 'لقد نجحت!',
             
             // This message is displayed if the user's browser doesn't support canvas:
